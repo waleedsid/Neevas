@@ -11,7 +11,7 @@ This task involves creating and uploading a personal portfolio website. The port
 
 ### Submission Requirements
 - **Repository Link:** https://github.com/waleedsid/personal-portfolio-website
-- **Readme File:** https://github.com/waleedsid/VIRTUAL-VIGILANTES/edit/main/README.md
+- **Readme File:** https://github.com/waleedsid/Neevas/blob/main/README.md
 
 ## 🎨 Sneak Peek
 
