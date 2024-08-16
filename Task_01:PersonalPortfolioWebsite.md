@@ -1,4 +1,4 @@
-Task 1: Personal Portfolio Website
+# Task 1: Personal Portfolio Website
 
 ## Overview
 
@@ -32,7 +32,7 @@ Check out the live version of my portfolio here: [Personal Portfolio](https://wa
 
 ## Additional Information
 
-- **Deadline:** [August 21, 2024]
+- **Deadline:** [August 31, 2024]
 - **Contact:** For any questions or clarifications, reach out to waleed.siddique.112@gmail.com.
 
 Thank you for your effort and attention to detail in completing this task!
